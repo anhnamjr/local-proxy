@@ -1,0 +1,299 @@
+{
+  "data": [
+    {
+      "type": "combo_discount",
+      "title": "Mua gói siêu hời",
+      "icon": "https://media3.scdn.vn/img4/2020/05_14/t1QyUHqUnAaU2rZ5RUEW.png",
+      "description": "Mua kèm càng nhiều SP nhận ưu đãi càng lớn",
+      "details": [
+        "Mua kèm càng nhiều SP nhận ưu đãi càng lớn"
+      ],
+      "note": "Sản phẩm mua kèm, giảm giá tới 890.479đ",
+      "bg_color": "#fff8e0",
+      "main": {
+        "name": "Đầm 2 dây đũi lụa",
+        "product_id": 28795071,
+        "price": 99000,
+        "final_price": 99000,
+        "image": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU_simg_b5529c_250x250_maxb.jpg",
+        "stock_status": 1,
+        "cat_path": "dam-2-day-dui-lua-28795071.html",
+        "shop_info": {
+          "shop_id": 675324
+        },
+        "quantity": 784,
+        "deeplink": "https://www.sendo.vn/dam-2-day-dui-lua-28795071.html?fromItem=28795071&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+        "is_variants": true
+      },
+      "sub": [
+        {
+          "name": "Áo gió nữ chống nước",
+          "product_id": 34031089,
+          "price": 181651,
+          "final_price": 99908,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/09_21/fKQ9zSQ8rRpXatwz4fEZ_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "ao-gio-nu-chong-nuoc-34031089.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 11989,
+          "deeplink": "https://www.sendo.vn/ao-gio-nu-chong-nuoc-34031089.html?fromItem=34031089&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Áo khoác len nữ cardigan",
+          "product_id": 37508171,
+          "price": 170000,
+          "final_price": 93500,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/11_20/5R8f2pic696zouKVFCSu_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "ao-khoac-len-nu-cardigan-37508171.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 994,
+          "deeplink": "https://www.sendo.vn/ao-khoac-len-nu-cardigan-37508171.html?fromItem=37508171&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Áo len cổ tròn Hàn Quốc",
+          "product_id": 37281606,
+          "price": 234000,
+          "final_price": 128700,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/11_13/CUiV4yI6I4vRICWAFMPV_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "ao-len-co-tron-han-quoc-37281606.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 1998,
+          "deeplink": "https://www.sendo.vn/ao-len-co-tron-han-quoc-37281606.html?fromItem=37281606&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Bộ đũi 3 lỗ mặc nhà",
+          "product_id": 32081997,
+          "price": 140000,
+          "final_price": 77000,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/07_30/704HpckC5z9QBzvPiTHw_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "bo-dui-3-lo-mac-nha-32081997.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 698,
+          "deeplink": "https://www.sendo.vn/bo-dui-3-lo-mac-nha-32081997.html?fromItem=32081997&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Combo 10 đôi tất gấu nữ cổ ngắn",
+          "product_id": 35203199,
+          "price": 108000,
+          "final_price": 59400,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_11/trT82sO3ZGqhDYl0mtJg_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "combo-10-doi-tat-gau-nu-co-ngan-35203199.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 982,
+          "deeplink": "https://www.sendo.vn/combo-10-doi-tat-gau-nu-co-ngan-35203199.html?fromItem=35203199&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Combo 10 đôi tất nữ hoa cúc siêu xinh",
+          "product_id": 35202978,
+          "price": 108000,
+          "final_price": 59400,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_11/ES7w7jgefNcKmxhnaVhi_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "combo-10-doi-tat-nu-hoa-cuc-sieu-xinh-35202978.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 978,
+          "deeplink": "https://www.sendo.vn/combo-10-doi-tat-nu-hoa-cuc-sieu-xinh-35202978.html?fromItem=35202978&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Combo 4 quần sịp đùi thông hơi nam",
+          "product_id": 34692858,
+          "price": 163000,
+          "final_price": 89650,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_05/y1mQJW7fMAI3aV6kTuSR_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "combo-4-quan-sip-dui-thong-hoi-nam-34692858.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 2993,
+          "deeplink": "https://www.sendo.vn/combo-4-quan-sip-dui-thong-hoi-nam-34692858.html?fromItem=34692858&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Quần lót nữ gân tăm phối nơ",
+          "product_id": 35843226,
+          "price": 180000,
+          "final_price": 99000,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_20/b6eSWdWsLe5GkCVaOlrz_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "quan-lot-nu-gan-tam-phoi-no-35843226.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 1887,
+          "deeplink": "https://www.sendo.vn/quan-lot-nu-gan-tam-phoi-no-35843226.html?fromItem=35843226&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Quần ống loe nữ chất đẹp",
+          "product_id": 36688119,
+          "price": 163302,
+          "final_price": 89816,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_24/DWqPNUlGB8fSv40yWjf7_simg_b5529c_250x250_maxb.jpg",
+          "cat_path": "quan-ong-loe-nu-chat-dep-36688119.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 3999,
+          "deeplink": "https://www.sendo.vn/quan-ong-loe-nu-chat-dep-36688119.html?fromItem=36688119&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Quần short dù thể thao 2 túi khoá",
+          "product_id": 34695520,
+          "price": 71000,
+          "final_price": 39050,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/10_05/cZStu8DQsdtdDEuw2zc1_simg_b5529c_250x250_maxb.jpg",
+          "cat_path": "quan-short-du-the-thao-2-tui-khoa-34695520.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 3996,
+          "deeplink": "https://www.sendo.vn/quan-short-du-the-thao-2-tui-khoa-34695520.html?fromItem=34695520&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Quần short đũi nữ",
+          "product_id": 37508274,
+          "price": 71000,
+          "final_price": 39050,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/11_20/0eLnGvHf5VZx9peKurmB_simg_b5529c_250x250_maxb.jpg",
+          "cat_path": "quan-short-dui-nu-37508274.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 2999,
+          "deeplink": "https://www.sendo.vn/quan-short-dui-nu-37508274.html?fromItem=37508274&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        },
+        {
+          "name": "Quần tregging cạp cao gen bụng",
+          "product_id": 37508300,
+          "price": 160000,
+          "final_price": 88000,
+          "promotion_percent": 45,
+          "image": "https://media3.scdn.vn/img4/2020/11_20/bEo6GbTta8ubQmEHvhHJ_simg_b5529c_250x250_maxb.jpg",
+          "stock_status": 1,
+          "cat_path": "quan-tregging-cap-cao-gen-bung-37508300.html",
+          "shop_info": {
+            "shop_id": 675324
+          },
+          "quantity": 5955,
+          "deeplink": "https://www.sendo.vn/quan-tregging-cap-cao-gen-bung-37508300.html?fromItem=37508300&source_block_id=combodiscount_products_&source_page_id=&source_position=0&product_type=1&experiment_id=0&algo=&num_result_per_page=0",
+          "is_variants": true
+        }
+      ],
+      "skus_combo": {
+        "20387373": true,
+        "20387854": true,
+        "22739397_22739399": true,
+        "22739398_22739399": true,
+        "25579_19963353": true,
+        "25579_19963354": true,
+        "25579_20068178": true,
+        "25582_19963353": true,
+        "25582_19963354": true,
+        "25582_20068178": true,
+        "25583_19963353": true,
+        "25583_19963354": true,
+        "25583_20068178": true,
+        "28514541_28514542": true,
+        "28714113_28714114": true,
+        "28714114_28714115": true,
+        "28714114_28714116": true,
+        "28714114_28714117": true,
+        "28714114_28714118": true,
+        "28714114_28714119": true,
+        "603_814": true,
+        "603_816": true,
+        "603_817": true,
+        "603_818": true,
+        "605_18975": true,
+        "605_27711622": true,
+        "605_27711623": true,
+        "605_27711624": true,
+        "605_27711625": true,
+        "605_28514541": true,
+        "605_814": true,
+        "605_817": true,
+        "605_818": true,
+        "606_28514541": true,
+        "606_814": true,
+        "606_816": true,
+        "606_817": true,
+        "606_818": true,
+        "607_18975": true,
+        "607_817": true,
+        "607_818": true,
+        "609_814": true,
+        "628_18975": true,
+        "628_814": true,
+        "628_816": true,
+        "628_817": true,
+        "628_818": true,
+        "631_28514541": true,
+        "814_28714104": true,
+        "816_19572381": true,
+        "817_19572381": true,
+        "818_19572381": true
+      },
+      "quantity_promotion": 0
+    },
+    {
+      "type": "pay_later",
+      "title": "Mua trước trả sau",
+      "icon": "https://taichinh.sendo.vn/v3/resources/icon24Loan@3x.png",
+      "description": "Trả trước 0 đồng, Trả sau đến 45 ngày",
+      "details": [
+        "<span style=\"color: #677177; line-height: 1.4; font-size: 14px\">• 0 đồng trả trước</span><br/>\n                <span style = \"color: #677177; line-height: 1.4; font-size: 14px\" >• 0% lãi suất</span><br/>\n                <span style=\"color: #677177; line-height: 1.4; font-size: 14px\">• Trả sau đến 45 ngày.</span>"
+      ],
+      "note": "<span style=\"line-height: 18px;color: #3f4b53; font-size: 14px\">Lưu ý: Phương thức thanh toán này chỉ áp dụng khi bạn đã có hạn mức Mua trước trả sau. <a href=\"https://www.sendo.vn/mua-truoc-tra-sau/\">Xem chi tiết</a></span>",
+      "bg_color": "#fdede2"
+    },
+    {
+      "type": "discount_app",
+      "title": "Giảm khi mua qua App",
+      "icon": "https://media3.scdn.vn/img4/2021/05_10/HHDHM10eqVNmGUZE5EfA.png",
+      "description": "Giảm thêm 2% khi mua trên App Sendo",
+      "details": [
+        "<span style=\"color: #677177; line-height: 1.4; font-size: 14px\">Giảm thêm 2% khi mua trên App Sendo</span><br/> <span style = \"color: #677177; line-height: 1.4; font-size: 14px\" >• Quét mã QR bên dưới để tải app nhé!</span>"
+      ],
+      "bg_color": "#fdede2",
+      "qr": true
+    }
+  ],
+  "error": ""
+}

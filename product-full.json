@@ -1,0 +1,530 @@
+{
+  "data": {
+    "id": 28795071,
+    "name": "Đầm 2 dây đũi lụa",
+    "uid": "get_basic_product_28795071",
+    "sku_user": "VD101.3",
+    "cat_path": "dam-2-day-dui-lua-28795071.html",
+    "url_key": "dam-2-day-dui-lua-28795071",
+    "price": 181651,
+    "price_max": 181651,
+    "final_price": 99000,
+    "final_price_max": 99000,
+    "order_count": 28,
+    "image": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU_simg_b5529c_250x250_maxb.jpg",
+    "category_id": "1/2/8/26/700",
+    "short_description": "Váy 2 dây chất đũi lụaVáy 2 dây chất đũi lụa có đủ các size cho các hạng kgVáy 2 dây chất đũi lụa dễ dàng kết h�",
+    "category_info": [
+      {
+        "id": 8,
+        "title": "Thời Trang Nữ",
+        "path": "thoi-trang-nu",
+        "url_key": "thoi-trang-nu"
+      },
+      {
+        "id": 26,
+        "title": "Đầm, váy",
+        "path": "thoi-trang-nu/dam",
+        "url_key": "dam"
+      },
+      {
+        "id": 700,
+        "title": "Đầm suông",
+        "path": "thoi-trang-nu/dam/dam-suong",
+        "url_key": "dam-suong"
+      }
+    ],
+    "shop_info": {
+      "shop_id": 675324,
+      "shop_name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+      "shop_logo": "https://media3.scdn.vn/img3/2019/11_27/vA8OKn.jpg",
+      "good_review_percent": 0,
+      "score": 0,
+      "customer_id": 2031630941,
+      "phone_number": "0932395934",
+      "rating_avg": 4.6,
+      "rating_count": 4303,
+      "response_time": "Ít khi trả lời",
+      "product_total": 153,
+      "sale_on_sendo": "2 năm",
+      "percent_response": "--",
+      "shop_badge_urls": [
+        {
+          "type": "shop_plus",
+          "icon": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+        },
+        {
+          "type": "shop_level",
+          "icon": "https://media3.scdn.vn/img4/2020/12_15/qQtk5Kp2bbIThQhWXhGq.png"
+        }
+      ],
+      "shop_url": "shop/dep-shop-si-le-thoi-trang",
+      "time_prepare_product": "1 ngày",
+      "warehourse_region_name": "Phú Thọ"
+    },
+    "product_mall": 0,
+    "quantity": 784,
+    "stock_status": 1,
+    "status": 2,
+    "is_express": false,
+    "is_installment": false,
+    "is_pay_later": true,
+    "is_flash_deal": false,
+    "promotion_percent": 47,
+    "discount_app": 0,
+    "active_event_frame": "",
+    "media": [
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/QdeGftjnXWljXbE0Y6g4.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/QdeGftjnXWljXbE0Y6g4_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/QdeGftjnXWljXbE0Y6g4_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/PDY2Vn3QtVuPJbi1Df7s.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/PDY2Vn3QtVuPJbi1Df7s_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/PDY2Vn3QtVuPJbi1Df7s_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/n5EO6GORhRydsKZ0iv5p.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/n5EO6GORhRydsKZ0iv5p_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/n5EO6GORhRydsKZ0iv5p_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/n4WJG3gZvkv58yRX3NcW.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/n4WJG3gZvkv58yRX3NcW_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/n4WJG3gZvkv58yRX3NcW_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/yOT1Bc4cFmodnmQnGFSH.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/yOT1Bc4cFmodnmQnGFSH_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/yOT1Bc4cFmodnmQnGFSH_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      },
+      {
+        "image": "https://media3.scdn.vn/img4/2020/04_19/VtP58KBRroF9yDzhJzFN.jpg",
+        "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/VtP58KBRroF9yDzhJzFN_simg_de2fe0_500x500_maxb.jpg",
+        "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/VtP58KBRroF9yDzhJzFN_simg_02d57e_50x50_maxb.jpg",
+        "type": "image"
+      }
+    ],
+    "return_policy": [
+      {
+        "title": "Miễn phí hoàn trả",
+        "color": "#f26522",
+        "icon": "Revert",
+        "tooltip_title": "Miễn phí hoàn trả",
+        "tooltip_content": "<div class=\"policy-container\" style=\"line-height: 1.4;\">Sendo bảo vệ quyền lợi khách hàng hoàn trả sản phẩm miễn phí nếu lỗi của Shop (sản phẩm kém chất lượng, bị lỗi kỹ thuật, hư hỏng không sử dụng được, bể vỡ, không đúng mô tả, hoặc không đúng như đơn đặt hàng).</div>",
+        "position": "bottom",
+        "is_installment": false
+      },
+      {
+        "title": "48 giờ hoàn trả",
+        "color": "#e82f3a",
+        "icon": "FortyEight",
+        "tooltip_title": "Chính sách hoàn trả của Sendo",
+        "tooltip_content": "<div class=\"policy-container\" style=\"line-height: 1.4;\"> <ul style=\"list-style: disc inside none; padding-left: 0; margin: 0;\"> Trả hàng hoàn tiền trong vòng 48 giờ cho các sản phẩm bị lỗi kỹ thuật, bể vỡ, không đúng mô tả hoặc không đúng như đơn đặt hàng.</ul> </div>",
+        "is_installment": false
+      }
+    ],
+    "description_info": {
+      "attributes": [
+        {
+          "name": "Chất vải",
+          "value": "Đũi"
+        },
+        {
+          "name": "Chiều dài váy",
+          "value": "Ngang gối"
+        },
+        {
+          "name": "Chiều dài tay áo",
+          "value": "Không tay"
+        },
+        {
+          "name": "Kiểu cổ áo",
+          "value": "Không cổ"
+        },
+        {
+          "name": "Họa tiết",
+          "value": "Trơn"
+        },
+        {
+          "name": "Phong cách",
+          "value": "Dễ thương"
+        }
+      ],
+      "description": "<p><span style=\"font-size: 18pt;\"><em><strong>Váy 2 dây chất đũi lụa</strong></em></span></p><p><span style=\"font-size: 12pt;\"><em><strong>Váy 2 dây chất đũi lụa </strong></em>có đủ các size cho các hạng kg</span></p><p><em style=\"font-size: 12pt;\"><strong><span style=\"font-size: 12pt;\"><em>Váy 2 dây chất đũi lụa</em></span> </strong></em><span style=\"font-size: 12pt;\">dễ dàng kết hợp với các phụ kiện thời trang như giày cao gót, túi xách, kính râm...<em><strong>Váy 2 dây chất đũi lụa</strong></em></span><span style=\"font-size: 12pt;\"> cực mát và nhẹ, thích hợp mặc đi làm, đi chơi, đi tiệc, dạo phố</span></p><p><span style=\"font-size: 12pt;\"><strong>Size: S M L</strong></span></p><p><span style=\"font-size: 12pt;\"><strong>-Size S:</strong> dưới 49kg (tùy chiều cao)</span></p><p><span style=\"font-size: 12pt;\"><strong>-Size M:</strong> 50-58kg (tùy chiều cao)</span></p><p><span style=\"font-size: 12pt;\"><strong>-Size L:</strong> 59-68kg (tùy chiều cao)</span></p><p><strong>SHOP CAM KẾT:</strong></p><p>-Đổi trả 100% nếu như sản phẩm sai màu, sai mẫu hoặc sản phẩm lỗi, kém chất lượng.</p><p>-Giao hàng nhanh chóng, giao ngay khi có đơn đặt hàng.</p><p>-Mua 5 sản phẩm trở lên giảm ngay 10k/1 sản phẩm.</p><p>-Mua sỉ sll =&gt; liên hệ trực tiếp (0932.395.934) để nhận báo giá nhé</p><p>-Shop cũng tuyển cộng tác viên toàn quốc nhé</p><p><img src=\"https://media3.scdn.vn/img4/2020/02_28/O8zC1Kss0o7JPoGh9dvG_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/sfjaaeFVilyApKn07Zvb_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/Kx6ZwcSgWIWb4d7iBnA4_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/MMt4sZH5hssXftWQW1xp_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/pDf1VMa36EUVmbKZ8a4J_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/TtW7jX0mgX8ab4DYBaTQ_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/ITN3BHX1mQMzKr8jPORT_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/LsBklxrLtjGXCeEBnGfZ_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><img src=\"https://media3.scdn.vn/img4/2020/02_28/GmlC4j6jzcoJyv0FaYK7_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto;display:block;\"><br><br><br><br><br><br><br><br><br><br><br><br><br></p><p><strong><u>Hướng dẫn đặt hàng NHIỀU sản phẩm trên trang Sen đỏ:</u></strong></p><p>Bước 1: Thêm hết sản phẩm vào giỏ hàng ( thay vì bấm mua ngay để mua 1 sản phẩm thì hãy bấm nút bên cạnh tay trái để thêm sp vào giỏ hàng)</p><p>Bước 2: Sau khi thêm hết sản phẩm vào giỏ hàng thì bấm vào giỏ hàng</p><p>Bước 3: Thanh toán đơn hàng ( những sản phẩm của 1 shop thì mới trong cùng 1 đơn hàng)</p><p>Bước 4: Khi thanh toán nếu muốn chọn màu hay size, hay nhắc nhở gì cho shop thì vui lòng ghi chú lại cho shop ghi đặt hàng</p><p>Bước 5: Khi đặt hàng thì hãy để ý tiền vận chuyển giúp shop để tránh phí ship cao lại trách shop ( tiền ship này không liên quan đến shop do có nhà vận chuyển riêng. Cảm ơn)</p><p>Bước 6: Khi đặt hàng và nhận hàng thành công thì hãy đánh giá đơn hàng giúp shop nha, với đơn hàng nào được đánh giá 5* hãy liên hệ và báo mã đơn hàng cho shop qua tin nhắn để được mã giảm giá trị giá 20k nhé!</p><p><strong><u>CHÚ Ý :</u></strong><br> 1. Vui lòng ghi địa chỉ nhận hàng rõ ràng đầy đủ để tránh bị hủy đơn hàng.<br> + Mẫu địa chỉ đúng (Số nhà và đường/ địa điểm gần nhà bạn + thôn xóm - Phường/Xã - Quận/Huyện)<br> + VD: Mẫu địa chỉ đúng trường hợp bạn ở tỉnh lẻ (Tạp hóa ABC, công ty XYZ,..v..v.. - Thôn A - Xã B - Huyện C). Trường hợp bạn ở thành phố ( số 1, 2 ,3... đường ABC - phường XYZ - Quận DEF) những đơn hàng địa chỉ không rõ ràng như không có thôn (đối với KH ở tỉnh), không có số nhà, đường (đối với KH ở TP) sẽ bị hủy.<br> <br> 2.Giờ giao hàng là giờ hành chính, vui lòng chọn địa chỉ giao hàng tại nơi bạn ở vào giờ hành chính hoặc sử dụng SĐT người thân ở nhà và nhờ nhận hàng giúp.<br> <br> Chúc bạn mua sắm vui vẻ!!!<br> Cảm ơn đã ủng hộ SHOP!</p><p>ĐỪNG QUÊN FOLLOW SHOP ĐỂ NHẬN NHIỀU ƯU ĐÃI, PHIẾU GIẢM GIÁ VÀ NHỮNG SẢN PHẨM THỜI TRANG MỚI ĐC CẬP NHẬT LIÊN TỤC NHÉ</p><p><a href=\"https://www.sendo.vn/shop/dep-shop-si-le-thoi-trang\" rel=\"nofollow\">Xem thêm sản phẩm của shop tại đây</a></p>"
+    },
+    "attribute": [
+      {
+        "attribute_id": 284,
+        "name": "Màu sắc",
+        "product_option": "28795071_284",
+        "show_required": 1,
+        "type": "Option",
+        "value": [
+          {
+            "option_id": 13819352,
+            "name": "Be",
+            "value": "Be",
+            "product_option_id": "28795071_13819352",
+            "image": "https://media3.scdn.vn/img4/2020/02_28/pDf1VMa36EUVmbKZ8a4J.jpg",
+            "image_500x500": "https://media3.scdn.vn/img4/2020/02_28/pDf1VMa36EUVmbKZ8a4J_simg_de2fe0_500x500_maxb.jpg",
+            "image_50x50": "https://media3.scdn.vn/img4/2020/02_28/pDf1VMa36EUVmbKZ8a4J_simg_02d57e_50x50_maxb.jpg",
+            "is_custom": false
+          },
+          {
+            "option_id": 605,
+            "name": "Đen",
+            "value": "Đen",
+            "product_option_id": "28795071_605",
+            "image": "https://media3.scdn.vn/img4/2020/02_28/sfjaaeFVilyApKn07Zvb.jpg",
+            "image_500x500": "https://media3.scdn.vn/img4/2020/02_28/sfjaaeFVilyApKn07Zvb_simg_de2fe0_500x500_maxb.jpg",
+            "image_50x50": "https://media3.scdn.vn/img4/2020/02_28/sfjaaeFVilyApKn07Zvb_simg_02d57e_50x50_maxb.jpg",
+            "is_custom": false
+          },
+          {
+            "option_id": 606,
+            "name": "Hồng",
+            "value": "Hồng",
+            "product_option_id": "28795071_606",
+            "image": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD.jpg",
+            "image_500x500": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD_simg_de2fe0_500x500_maxb.jpg",
+            "image_50x50": "https://media3.scdn.vn/img4/2020/04_19/wObjYxCF3BmZKmuaOveD_simg_02d57e_50x50_maxb.jpg",
+            "is_custom": false
+          }
+        ],
+        "search_key": "mau_sac",
+        "is_custom": false
+      },
+      {
+        "attribute_id": 298,
+        "name": "Kích thước",
+        "product_option": "28795071_298",
+        "show_required": 1,
+        "type": "Option",
+        "value": [
+          {
+            "option_id": 815,
+            "name": "S",
+            "value": "S",
+            "product_option_id": "28795071_815",
+            "is_custom": false
+          },
+          {
+            "option_id": 816,
+            "name": "M",
+            "value": "M",
+            "product_option_id": "28795071_816",
+            "is_custom": false
+          },
+          {
+            "option_id": 817,
+            "name": "L",
+            "value": "L",
+            "product_option_id": "28795071_817",
+            "is_custom": false
+          }
+        ],
+        "search_key": "kich_thuoc_1",
+        "is_custom": false
+      }
+    ],
+    "variants": [
+      {
+        "attribute_hash": "606_815",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "S_Hồng",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 99,
+        "options": [
+          815,
+          606
+        ],
+        "attribute_option": {
+          "284": 606,
+          "298": 815
+        },
+        "buy_limit": 99,
+        "text": "Chỉ được mua <b>99</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "606_817",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "L_Hồng",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 97,
+        "options": [
+          817,
+          606
+        ],
+        "attribute_option": {
+          "284": 606,
+          "298": 817
+        },
+        "buy_limit": 97,
+        "text": "Chỉ được mua <b>97</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "605_817",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "L_Đen",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 96,
+        "options": [
+          817,
+          605
+        ],
+        "attribute_option": {
+          "284": 605,
+          "298": 817
+        },
+        "buy_limit": 96,
+        "text": "Chỉ được mua <b>96</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "815_13819352",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "S_Be",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 97,
+        "options": [
+          815,
+          13819352
+        ],
+        "attribute_option": {
+          "284": 13819352,
+          "298": 815
+        },
+        "buy_limit": 97,
+        "text": "Chỉ được mua <b>97</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "816_13819352",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "M_Be",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 99,
+        "options": [
+          816,
+          13819352
+        ],
+        "attribute_option": {
+          "284": 13819352,
+          "298": 816
+        },
+        "buy_limit": 99,
+        "text": "Chỉ được mua <b>99</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "606_816",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "M_Hồng",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 100,
+        "options": [
+          816,
+          606
+        ],
+        "attribute_option": {
+          "284": 606,
+          "298": 816
+        },
+        "buy_limit": 100,
+        "text": "Chỉ được mua <b>100</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "605_815",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "S_Đen",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 98,
+        "options": [
+          815,
+          605
+        ],
+        "attribute_option": {
+          "284": 605,
+          "298": 815
+        },
+        "buy_limit": 98,
+        "text": "Chỉ được mua <b>98</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "817_13819352",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "L_Be",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 99000,
+        "stock": 98,
+        "options": [
+          817,
+          13819352
+        ],
+        "attribute_option": {
+          "284": 13819352,
+          "298": 817
+        },
+        "buy_limit": 98,
+        "text": "Chỉ được mua <b>98</b> sản phẩm khuyến mãi."
+      },
+      {
+        "attribute_hash": "605_816",
+        "promotion_start_date": 1605805200,
+        "promotion_end_date": 13092598799,
+        "promotion_percent": 0.46,
+        "is_promotion": true,
+        "sku_user": "M_Đen",
+        "price": 181651,
+        "special_price": 99000,
+        "final_price": 181651,
+        "stock": 0,
+        "options": [
+          816,
+          605
+        ],
+        "attribute_option": {
+          "284": 605,
+          "298": 816
+        },
+        "buy_limit": 0,
+        "text": "Bạn hết lượt mua sản phẩm khuyến mãi này."
+      }
+    ],
+    "voucher": {
+      "product_type": 1
+    },
+    "brand_info": {},
+    "rating_info": {
+      "total_rated": 1,
+      "percent_star_rating": 100,
+      "percent_number": 100,
+      "total_rat_image": 0,
+      "percent_star": 5,
+      "percent_star1": 0,
+      "percent_star2": 0,
+      "percent_star3": 0,
+      "percent_star4": 0,
+      "percent_star5": 100,
+      "star1": 0,
+      "star2": 0,
+      "star3": 0,
+      "star4": 0,
+      "star5": 1
+    },
+    "installment_info": null,
+    "label_sale_event": null,
+    "label_sale": null
+  },
+  "meta_data": {
+    "page_title": "Đầm 2 dây đũi lụa - VD101.3",
+    "header_style": "normal",
+    "heading_search": "Mã: VD101.3",
+    "og_title": "Đầm 2 dây đũi lụa 28795071 - giảm 47 %",
+    "og_description": "Giá KM: 99,000VNĐ - Mua tại shop Đẹp Shop Sỉ Lẻ Thời Trang trên Sendo.vn",
+    "og_image": "https://media3.scdn.vn/img4/2020/04_19/8a761n51xqACp9jaRYwU_simg_b5529c_250x250_maxb.jpg",
+    "description": "Váy 2 dây chất đũi lụaVáy 2 dây chất đũi lụa có đủ các size cho các hạng kgVáy 2 dây chất đũi lụa dễ dàng kết h�",
+    "follow": true,
+    "index": true,
+    "keywords": "váy yếm 2 dây,váy 2 dây,váy 2 dây đen,váy 2 dây suông,váy hai dây dai",
+    "popup_info": {
+      "data": {
+        "expires": 0,
+        "type": 0
+      }
+    },
+    "bread_crumb": [
+      {
+        "title": "Sendo.vn",
+        "url": "",
+        "clickable": true,
+        "is_external_url": false,
+        "hidden": false
+      },
+      {
+        "title": "Thời Trang Nữ",
+        "url": "/thoi-trang-nu",
+        "clickable": true,
+        "is_external_url": false,
+        "hidden": false
+      },
+      {
+        "title": "Đầm, váy",
+        "url": "/dam",
+        "clickable": true,
+        "is_external_url": false,
+        "hidden": false
+      },
+      {
+        "title": "Đầm suông",
+        "url": "/dam-suong",
+        "clickable": true,
+        "is_external_url": false,
+        "hidden": false
+      },
+      {
+        "title": "Đầm 2 dây đũi lụa",
+        "url": "/dam-2-day-dui-lua-28795071.html",
+        "clickable": false,
+        "is_external_url": false,
+        "hidden": true
+      }
+    ]
+  },
+  "error": ""
+}

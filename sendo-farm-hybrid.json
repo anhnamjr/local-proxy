@@ -1,0 +1,742 @@
+{
+  "id": "sendo-farm-hybrid",
+  "name": "sendo-farm-hybrid",
+  "packages": {
+    "@farm-station/banner": {
+      "idx": "@farm-station/banner@wap",
+      "name": "@farm-station/banner",
+      "version": "wap",
+      "rev": "n3ljjin7aincldjq",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-banner/9d8c222a/index.js",
+          "integrity": "sha384-sIoS7YwWyDQUemULBmqhmxUpNgyJYX23Df9XJ++lSxb24Og9mAjBRwMUMRW8exj+"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-banner/9d8c222a/styles.css",
+          "integrity": "sha384-HHY3PmcS5Z5Ka+KScg3z9v0tavyjIsoncyIwCr92uTLA4itiBo8G3e7tF+ps3J0H"
+        }
+      },
+      "id": "@farm-station/banner@wap"
+    },
+    "@farm-master/listing": {
+      "idx": "@farm-master/listing@wap",
+      "name": "@farm-master/listing",
+      "version": "wap",
+      "rev": "kf2smgerfzw10oj0",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-listing/00119606/index.js",
+          "integrity": "sha384-dMmsh6n9g7W9f0vTvj/YrXPb0ezAi01HL0g7U/iumlONWD6va80kpVPUIsU2kR9a"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-listing/00119606/styles.css",
+          "integrity": "sha384-IBqbdyoO+aZVrj76mBb9t2sq6ByOVx9PiBiWgFY/SJMP1FWCY5B5KZHgfbtdKwzo"
+        }
+      },
+      "id": "@farm-master/listing@wap"
+    },
+    "@farm-order/listing": {
+      "idx": "@farm-order/listing@wap",
+      "name": "@farm-order/listing",
+      "version": "wap",
+      "rev": "atketgv0dszxv4w0",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-order-listing/043e87c6/index.js",
+          "integrity": "sha384-6JRY7cIEkG10BAkvLUw8DMiP5qSPKG8s9qQazgoQNfPb1Gsv2/HMsgcb+alrZDY7"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-order-listing/043e87c6/styles.css",
+          "integrity": "sha384-senS1WBPLnKCZ7FflWduSoa6kNHDggerrU5s7H/TD1nqfVw0eEDZzBtA3ERVCyXd"
+        }
+      },
+      "id": "@farm-order/listing@wap"
+    },
+    "@farm-order/details": {
+      "idx": "@farm-order/details@wap",
+      "name": "@farm-order/details",
+      "version": "wap",
+      "rev": "l4dud0zt6u0aisqm",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-order-details/658ed251/index.js",
+          "integrity": "sha384-MHWxzKCCBwtevNcwSiu3+YSF+rf5sYRboSZE4t8ERpKcW8XJcrmE5SyxIf3UYl15"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-order-details/658ed251/styles.css",
+          "integrity": "sha384-tL0VpYRhMkXIFN9hNR8el/7Hvr65KHGGwRjHOL71LiYc2diSocFbjtlNOGAjVj3x"
+        }
+      },
+      "id": "@farm-order/details@wap"
+    },
+    "@farm-master/cart-summary": {
+      "idx": "@farm-master/cart-summary@wap",
+      "name": "@farm-master/cart-summary",
+      "version": "wap",
+      "rev": "q7ll85m8plf926gw",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-cart-summary/476f7ec0/index.js",
+          "integrity": "sha384-Dn8do8LZwarHHdWU6PQ6XGMMbE9e8EKcimgvuRNDOm7q9mQQLQ8VWLlHSGnLdBQI"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-cart-summary/476f7ec0/styles.css",
+          "integrity": "sha384-xRje7HvYNatssWMGqoMcKAgkRHVEGI3ScRhbvfHZFr/wsxnK6Xyp3Rb4zyhUYtu8"
+        }
+      },
+      "id": "@farm-master/cart-summary@wap"
+    },
+    "@farm-station/location-master": {
+      "idx": "@farm-station/location-master@wap",
+      "name": "@farm-station/location-master",
+      "version": "wap",
+      "rev": "8svfp3eu91q5wv63",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-location-master/0a695085/index.js",
+          "integrity": "sha384-JzgFdrrruVuAgDyv4N2NruGTnscyDpQsXaKIJAkS0FbkXZWJBBq2VJaTkQ73GdlQ"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-location-master/0a695085/styles.css",
+          "integrity": "sha384-Mns8Wb5xKbMY6C3Bwyxiaduj+EGWirjeKsbtq9FvSPD8Fxw3oCbMiGtFoxZtDxZA"
+        }
+      },
+      "id": "@farm-station/location-master@wap"
+    },
+    "@farm-station/listing": {
+      "idx": "@farm-station/listing@wap",
+      "name": "@farm-station/listing",
+      "version": "wap",
+      "rev": "wpcgakdyzmm11q5e",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-listing/6e315662/index.js",
+          "integrity": "sha384-s3BHYrUzdN3VMAZcsQ2Ye3NEJhHHkqIT1gY9gme0R+YdcwJrON8zlyApRUOCoEG+"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-listing/6e315662/styles.css",
+          "integrity": "sha384-CbHT0OIqZnshyGD7zW8JLEljt7U0O2bp9eEDURdoUGCKEM5r4qY5wGoJqP04zhYJ"
+        }
+      },
+      "id": "@farm-station/listing@wap"
+    },
+    "@farm-checkout/info": {
+      "idx": "@farm-checkout/info@wap",
+      "name": "@farm-checkout/info",
+      "version": "wap",
+      "rev": "06t0730k13ezji57",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-info/ef9766f2/index.js",
+          "integrity": "sha384-yuSZiltTJ8jrU9ABAJA+j1OCNvebtSfNGKkR6c7eyu6DqP8n5BwMkRtnFZR8U6WE"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-info/ef9766f2/styles.css",
+          "integrity": "sha384-BJ5A/B1/6Eqn3bpqaKYuXmWmFhij5m4AmpFl/w15QqJ3Lh6tCi6p90xs0BwEw1tp"
+        }
+      },
+      "id": "@farm-checkout/info@wap"
+    },
+    "@farm-checkout/receiver-station": {
+      "idx": "@farm-checkout/receiver-station@wap",
+      "name": "@farm-checkout/receiver-station",
+      "version": "wap",
+      "rev": "ehhn84rwk3rwwbok",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-receiver-station/809e8859/index.js",
+          "integrity": "sha384-mOZp0BbTYfQiktI9WMbUp845xSWiq5homN4Dz1RJPc7HVUZHxTYRm2Wx3fMFSxv/"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-receiver-station/809e8859/styles.css",
+          "integrity": "sha384-q3R7t95HtVxd2O9fQcXT/8tu9fnkYFYOKE4pJZdw+lG92F3qv1sbQgwhBzgIv46q"
+        }
+      },
+      "id": "@farm-checkout/receiver-station@wap"
+    },
+    "@farm-checkout/products-info": {
+      "idx": "@farm-checkout/products-info@wap",
+      "name": "@farm-checkout/products-info",
+      "version": "wap",
+      "rev": "1x727oqe8tjjory6",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-products-info/2cf4d80c/index.js",
+          "integrity": "sha384-w6HW50NNJkPuFph18JhtrncKf7D1OuSHMnh9JCPBfABD9no7YPhCPVq/N9HUR3Lm"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-products-info/2cf4d80c/styles.css",
+          "integrity": "sha384-K1OMXhsHNL/uRaMQL/TiqQHr7k3zFjdlFBMvK91oWjC/NpLbEg/akHi0z93CdLL+"
+        }
+      },
+      "id": "@farm-checkout/products-info@wap"
+    },
+    "@farm-checkout/payment-method": {
+      "idx": "@farm-checkout/payment-method@wap",
+      "name": "@farm-checkout/payment-method",
+      "version": "wap",
+      "rev": "xvt6q4ndf7xp75kw",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-payment-method/2cf4d80c/index.js",
+          "integrity": "sha384-Jpr8Ru2Dttpx6hRwgnHxBGzPQ0oJ7kY0RDL3GlgNI+kPuX0/nRACpWp+SPR8HoSC"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-payment-method/2cf4d80c/styles.css",
+          "integrity": "sha384-ajcd+AjxnvLC6EVvaCCdt26fLw5sI01QycB4ABszpTU/i7WISnu9U6+vurfRNTXw"
+        }
+      },
+      "id": "@farm-checkout/payment-method@wap"
+    },
+    "@farm-checkout/vouchers": {
+      "idx": "@farm-checkout/vouchers@wap",
+      "name": "@farm-checkout/vouchers",
+      "version": "wap",
+      "rev": "ibe5n2686jqtm1qx",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-vouchers/2cf4d80c/index.js",
+          "integrity": "sha384-L2T485hC0fT3na6Gg9u0WUsB3EOvbO7k29QRxdYgB0XMWp1BpKK/IQJxsYHIBjXJ"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-vouchers/2cf4d80c/styles.css",
+          "integrity": "sha384-gLy/efJ7FMalSpempgBpI03LnyvCv58m3+tsJDb2K4MMMQ+y3YmE+0oTat/h67Gn"
+        }
+      },
+      "id": "@farm-checkout/vouchers@wap"
+    },
+    "@farm-station/location-pickup": {
+      "idx": "@farm-station/location-pickup@wap",
+      "name": "@farm-station/location-pickup",
+      "version": "wap",
+      "rev": "6b4vnfwqn88zhtjm",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-location-pickup/33aa4344/index.js",
+          "integrity": "sha384-YkIJeOIMAFbiT0ha7gdJYsYKFlfwTJQteRgUpX5PODaH3qtbl3Lh4fCtVLCikQgN"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-location-pickup/33aa4344/styles.css",
+          "integrity": "sha384-jU/8bsjACBT+x/x+t88Gw5mQIrPiptpRYwNH6BCER1LUu3oH1ibrNIOvYuGxoi30"
+        }
+      },
+      "id": "@farm-station/location-pickup@wap"
+    },
+    "@farm-referral/program": {
+      "idx": "@farm-referral/program@wap",
+      "name": "@farm-referral/program",
+      "version": "wap",
+      "rev": "wdzj3uxkui8j1c4i",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-program/0d6f9e28/index.js",
+          "integrity": "sha384-v9U/SFL5WeOUbpujyFZ427YRK4ZFJQMtwFaBn40yL9nLWvqVUzd00UCgJqnP0pMO"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-program/0d6f9e28/styles.css",
+          "integrity": "sha384-gT0/n4WCN8TEPuToX6ZADaZRTb7XEweUv9dc5aanWvvP1FcgXphQ+CBi/9yjjqie"
+        }
+      },
+      "id": "@farm-referral/program@wap"
+    },
+    "@farm-checkout/result": {
+      "idx": "@farm-checkout/result@wap",
+      "name": "@farm-checkout/result",
+      "version": "wap",
+      "rev": "u00hvlrev9zzbtgi",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-result/ad0a0395/index.js",
+          "integrity": "sha384-dN/ZFqlj9LOEAIXhAUbKiMrr9fmf6KQi8u3tQRWwqbpvE1W2AAlmh2CyRdlNfVn6"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-result/ad0a0395/styles.css",
+          "integrity": "sha384-uhixxctZT/1HGMAPkp8fd9gEK1dhQAKanGi5daobbmchp2Hr4K5WdLmRDGCj10XL"
+        }
+      },
+      "id": "@farm-checkout/result@wap"
+    },
+    "@farm-referral/invite": {
+      "idx": "@farm-referral/invite@wap",
+      "name": "@farm-referral/invite",
+      "version": "wap",
+      "rev": "640in25eg52mfjkj",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-invite/0d6f9e28/index.js",
+          "integrity": "sha384-lh38fEkjg+ZQJT6nMK6ilpSYr9reBiyYImIpp9dmbPmPPyknAMl4K0M8Rr3+8zd6"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-invite/0d6f9e28/styles.css",
+          "integrity": "sha384-KGIHVZ3ZUoDQ/u6CUbLaqMcew1rIamllJfvabYceU1BASuNISfHcINC565jxhs8V"
+        }
+      },
+      "id": "@farm-referral/invite@wap"
+    },
+    "@farm-master/search-bar": {
+      "idx": "@farm-master/search-bar@wap",
+      "name": "@farm-master/search-bar",
+      "version": "wap",
+      "rev": "3n4nd6v84cxn0x39",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-search-bar/fdfcd026/index.js",
+          "integrity": "sha384-RMo+wGpyce2SS8zefL5RS8MV5b8TX7siLtyG0F4aopuDhqJxS9t62fQd2VgY96sb"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-search-bar/fdfcd026/styles.css",
+          "integrity": "sha384-PZK+yddyW1o959+VFg+o6FfZQp/D5prN8+KpZYvIa0EXOpFJS1YC/fAKBpT7Bl9J"
+        }
+      },
+      "id": "@farm-master/search-bar@wap"
+    },
+    "@farm-rating/order": {
+      "idx": "@farm-rating/order@wap",
+      "name": "@farm-rating/order",
+      "version": "wap",
+      "rev": "kxwnrue7aqxblyfk",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-rating-order/9d34bb58/index.js",
+          "integrity": "sha384-PqkTq4bbT+0p2RSgkdO8fKFgs6He3EtOmDPShuOpJhi9K+J2S0FvIrVM0oQrWU5Q"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-rating-order/9d34bb58/styles.css",
+          "integrity": "sha384-X6/aDsJ9dSnI+ch2aG7rckRsd1odywMsbT2O9YsmRNPDwOqhczP/AD0Y3u+o/55k"
+        }
+      },
+      "id": "@farm-rating/order@wap"
+    },
+    "@farm-station/detail": {
+      "idx": "@farm-station/detail@wap",
+      "name": "@farm-station/detail",
+      "version": "wap",
+      "rev": "4esj58dzp20h444y",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-detail/809e8859/index.js",
+          "integrity": "sha384-aFlchyDcKMkHFZghn1+9UsAAHTOjpACu0CyECGw+JYJygYI8wYUK8uTqabjMKnJr"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-station-detail/809e8859/styles.css",
+          "integrity": "sha384-Ofm8HdVXIe6At5TgwjCezihV+I72ZLvXg0ho6GuMA9yRbDgbClWEBRWA3TWJmzZ0"
+        }
+      },
+      "id": "@farm-station/detail@wap"
+    },
+    "@farm-master/product-details": {
+      "idx": "@farm-master/product-details@wap",
+      "name": "@farm-master/product-details",
+      "version": "wap",
+      "rev": "8lfelxxj0ad5268m",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-product-details/434bfa60/index.js",
+          "integrity": "sha384-mNZxFc6mJ55zCRKxi1WolLJGt5qszy6B9LyuHZDlQD/Nl7S7UOk8Xk4kJxyHHols"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-product-details/434bfa60/styles.css",
+          "integrity": "sha384-ZylKgtS6NxOyrfcq43jE/MleIyE04Ei/+Lh6EfgX/QM9Rmi772wQ8FWxP4KaxTBI"
+        }
+      },
+      "id": "@farm-master/product-details@wap"
+    },
+    "@farm-checkout/repayment": {
+      "idx": "@farm-checkout/repayment@wap",
+      "name": "@farm-checkout/repayment",
+      "version": "wap",
+      "rev": "a8cdyn2xgics9lqv",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-repayment/2cf4d80c/index.js",
+          "integrity": "sha384-EzJpHPbAKoiON37gcrKbDp9Ts/uAjdaZ8pXPVovJHSAHSOqCUFO3zvq6BA9l5PiA"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-repayment/2cf4d80c/styles.css",
+          "integrity": "sha384-5aVD/oCAymonQOyZhXW+atXJGnMoe3gWbZevHKVBLDWnWk0O0Vbo6fWq4NvQDLwQ"
+        }
+      },
+      "id": "@farm-checkout/repayment@wap"
+    },
+    "@authentication/integration": {
+      "idx": "@authentication/integration@wap",
+      "name": "@authentication/integration",
+      "version": "wap",
+      "rev": "9ixewnugi399yzti",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/authentication-integration/f1487ea4/index.js",
+          "integrity": "sha384-d8vTYUONSMklpsQfsq7u3xC0105O6sWzczH61JD0aWkiGWlRdRMwxUQzLHaZxIg/"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/authentication-integration/f1487ea4/styles.css",
+          "integrity": "sha384-BhzX3Lr/7VwH2wIXUvCE7wUZZK9z7R3ISg4lXEDzUgXuve0+lLH5omi0eUKN197Z"
+        }
+      },
+      "id": "@authentication/integration@wap"
+    },
+    "@partner-referral/share": {
+      "idx": "@partner-referral/share@wap",
+      "name": "@partner-referral/share",
+      "version": "wap",
+      "rev": "e1weqg5h9dnvedsb",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/partner-referral-share/85f07a8d/index.js",
+          "integrity": "sha384-LyhmIwjaVnIMhxJjorskY8Y5o4fDXh/fvlOkNqMcb01EXdAaPAZaunI64YQhZxab"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/partner-referral-share/85f07a8d/styles.css",
+          "integrity": "sha384-UmSmhVBd7uXOiKWxX19yYi+YavihYk26XmunT/YJriW0mm2QCzl16rnJcCV6BsCw"
+        }
+      },
+      "id": "@partner-referral/share@wap"
+    },
+    "@partner-history/buyer-redeem-list": {
+      "idx": "@partner-history/buyer-redeem-list@wap",
+      "name": "@partner-history/buyer-redeem-list",
+      "version": "wap",
+      "rev": "bg94d166t8ianu3d",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/partner-history-buyer-redeem-list/1ad30ecd/index.js",
+          "integrity": "sha384-TWbOnBsK7JcMXj8kjMTkdln8EDWXCQOp2DeF+HSo1eXe5e1pQGT5KDxv8leFeNO4"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/partner-history-buyer-redeem-list/1ad30ecd/styles.css",
+          "integrity": "sha384-QbhvlRMn/R5d5B5ZJ940pDgltcA57x6Tvh7zZrDc4H17y3VWvH1I1+CzfAgu6DiW"
+        }
+      },
+      "id": "@partner-history/buyer-redeem-list@wap"
+    },
+    "@farm-wallet/shortcut": {
+      "idx": "@farm-wallet/shortcut@wap",
+      "name": "@farm-wallet/shortcut",
+      "version": "wap",
+      "rev": "jszivn8jopkfordi",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-shortcut/857134c7/index.js",
+          "integrity": "sha384-fl/MtD3JvLGlb8KWr7mHFXW3tYykSOVqwlHQ1Hy1NdNWqVlKw6c+XsVJ1Ajx2o3F"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-shortcut/857134c7/styles.css",
+          "integrity": "sha384-4XUdtLAV+2+LgFoLu+QqpjXwOfj6dXD3k5XMyfop4m77qCSvuIzKbj87y4bEoGHW"
+        }
+      },
+      "id": "@farm-wallet/shortcut@wap"
+    },
+    "@farm-wallet/info": {
+      "idx": "@farm-wallet/info@wap",
+      "name": "@farm-wallet/info",
+      "version": "wap",
+      "rev": "r64yzgkqq992l4pw",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-info/56489027/index.js",
+          "integrity": "sha384-LRpCKEJ1vICmLH6w6Ud0qLOKOK59mgUg4hYhRd1xSofOUV78f4m0xecm8eI7WT+o"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-info/56489027/styles.css",
+          "integrity": "sha384-YIj/mVgLVI++CGpnIbwY02VdX0I7L2AjwZs2iiliZ5nArO9zh3Nu/FC6X6PKoidT"
+        }
+      },
+      "id": "@farm-wallet/info@wap"
+    },
+    "@farm-wallet/top-up-places": {
+      "idx": "@farm-wallet/top-up-places@wap",
+      "name": "@farm-wallet/top-up-places",
+      "version": "wap",
+      "rev": "dvgca9j5iecdgwgb",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-top-up-places/857134c7/index.js",
+          "integrity": "sha384-uzbjQMYJ9vr7PJ0jAdUBy3p4Juh6OBf+ytf8+ve9F5RqIaM9GxORuOV6P3QRXNmo"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-top-up-places/857134c7/styles.css",
+          "integrity": "sha384-RIXigyuO6PGvR3RKaTPkjYYpq8StFLhqzVNYJhynQe79EzmRiaVnbieD7CEqaNbM"
+        }
+      },
+      "id": "@farm-wallet/top-up-places@wap"
+    },
+    "@farm-referral/banner": {
+      "idx": "@farm-referral/banner@wap",
+      "name": "@farm-referral/banner",
+      "version": "wap",
+      "rev": "2aq4u71yhngc71kc",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-banner/47f14e22/index.js",
+          "integrity": "sha384-KD6Db59rtHSxjH0L4s4RC5JBGeDlUFCzM0It9zFczbZyOpeZem7UAKQCjdTffpcG"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-referral-banner/47f14e22/styles.css",
+          "integrity": "sha384-wwS3fKWHJc6ImMVIcSMoXFp29PjuWZI6dZYiYzUQ/SA+LXc/38pE5chz+KK+JB5X"
+        }
+      },
+      "id": "@farm-referral/banner@wap"
+    },
+    "@farm-checkout/address-book": {
+      "idx": "@farm-checkout/address-book@wap",
+      "name": "@farm-checkout/address-book",
+      "version": "wap",
+      "rev": "f5dfjot7wegt9cvm",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-address-book/809e8859/index.js",
+          "integrity": "sha384-2LsVGC+XtsaCB3sxsZWxKV8hgvx2b2sTCxcfyI+j7OebXcHmAm6XPf0s3DXWD/5g"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-checkout-address-book/809e8859/styles.css",
+          "integrity": "sha384-qZzXz+xsaulsovLvlGlyt3/savkbHQDmq5mn3i6iyeJomijhL67/eWmogy91D6jX"
+        }
+      },
+      "id": "@farm-checkout/address-book@wap"
+    },
+    "@farm-wallet/transaction-history": {
+      "idx": "@farm-wallet/transaction-history@wap",
+      "name": "@farm-wallet/transaction-history",
+      "version": "wap",
+      "rev": "y8t5xy4i4p8x3k10",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-transaction-history/c8921b47/index.js",
+          "integrity": "sha384-hP8Fu9BucV4RhCpf39XLx3Nh32CmqCHxT2kAp6KLCA8uxgWbwKm6DSo2Bj8DiZcQ"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-transaction-history/c8921b47/styles.css",
+          "integrity": "sha384-BqAmS9nfu9trNIlQg1JQ4pauFv//ejObYuc5qAcG+DnSzpPnFiSfsDrbPu/LYxYu"
+        }
+      },
+      "id": "@farm-wallet/transaction-history@wap"
+    },
+    "@farm-wallet/top-up-at-home": {
+      "idx": "@farm-wallet/top-up-at-home@wap",
+      "name": "@farm-wallet/top-up-at-home",
+      "version": "wap",
+      "rev": "damm7ajq7c03t4a4",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-top-up-at-home/87665006/index.js",
+          "integrity": "sha384-T7cUxjL7VGRMIX3g1HtQqS2wHDAYKIwGZyovNhj1ZHnMSuaPdzc3afFhWl6J+/78"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-wallet-top-up-at-home/87665006/styles.css",
+          "integrity": "sha384-2cQGr0srzEbs1OkUQWAoV0NTDpuU4WyjtpjUprmf0UrR2jx9qwgPX9v0YtDj8HWK"
+        }
+      },
+      "id": "@farm-wallet/top-up-at-home@wap"
+    },
+    "@farm-master/header": {
+      "idx": "@farm-master/header@wap",
+      "name": "@farm-master/header",
+      "version": "wap",
+      "rev": "jm210eh9u9lo8eyg",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-header/0f740c6d/index.js",
+          "integrity": "sha384-TjoYadRYoV146XrkXv5UeiLlC0ioFqsZ7XWyh/a0Pc/hpY5E/cQrQfstK15ghfwp"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-master-header/0f740c6d/styles.css",
+          "integrity": "sha384-/5vTggEhNIpH7gYHIPDxCC0VaqYGTH1Uaf7vgSX82QdbEvVvTvHCKAp4oG8R/ouQ"
+        }
+      },
+      "id": "@farm-master/header@wap"
+    },
+    "@farm-loyalty/tier-rewards": {
+      "idx": "@farm-loyalty/tier-rewards@wap",
+      "name": "@farm-loyalty/tier-rewards",
+      "version": "wap",
+      "rev": "wkz3dqcv03qvsb2p",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-tier-rewards/6b4014bd/index.js",
+          "integrity": "sha384-nnHLSipvR2Tm+DZxpjpiVl2eu3heVRUFFx09ApJPUe81fnWpSTDnc5RUPM98/kki"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-tier-rewards/6b4014bd/styles.css",
+          "integrity": "sha384-+LVJy+/sOeJWuH/IwpBCAttgAdi01sxp7S8ejH6GSbg1R/bDzsOwrvjRzHXDECBI"
+        }
+      },
+      "id": "@farm-loyalty/tier-rewards@wap"
+    },
+    "@farm-loyalty/member-card": {
+      "idx": "@farm-loyalty/member-card@wap",
+      "name": "@farm-loyalty/member-card",
+      "version": "wap",
+      "rev": "ha6m9vtdlxqkdsja",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-member-card/b60f48ad/index.js",
+          "integrity": "sha384-WfpcUVm7hu/84N267BqEUQGyu7GM+zGUMIEglarTM9+19dwu2nUXN5P+efKGNnqQ"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-member-card/b60f48ad/styles.css",
+          "integrity": "sha384-jvdC70bGF8eyTSZ9fICxHNuVGVfMGePcc151TNN2VLi3GhkkNzJYYISmsHYQEj3W"
+        }
+      },
+      "id": "@farm-loyalty/member-card@wap"
+    },
+    "@farm-loyalty/loyalty-intro": {
+      "idx": "@farm-loyalty/loyalty-intro@wap",
+      "name": "@farm-loyalty/loyalty-intro",
+      "version": "wap",
+      "rev": "kzbmpma8pp0k9uoi",
+      "exportsOnly": [],
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "script": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-loyalty-intro/dac0baca/index.js",
+          "integrity": "sha384-OYZrheqEAuSjwpvDBDQOH/bmetzy7XDLXV/lRSbMoVWM2UGI6ny0EsGX6I5+CruU"
+        },
+        "style": {
+          "url": "http://local.sendo.vn:8888/modules/farm-loyalty-loyalty-intro/dac0baca/styles.css",
+          "integrity": "sha384-EMk0LFG/EdOHRDIClykWeftQ4V95iqSN2ibsPZSeeYyyLKDqlxjzQbrWcyuwFFU9"
+        }
+      },
+      "id": "@farm-loyalty/loyalty-intro@wap"
+    }
+  },
+  "warnings": []
+}

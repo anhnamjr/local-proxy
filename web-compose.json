@@ -1,0 +1,1124 @@
+{
+  "modules": {
+    "@sendo-buyers/header": {
+      "idx": "@sendo-buyers/header@web",
+      "name": "@sendo-buyers/header",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-29T02:22:32.073Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-header/13fb3743/styles.css",
+            "integrity": "sha384-TWQqLj6KoQq/XLHK5EhPs2okEFeRVawCpzQLybc+AZyl+P+526Toa9ck5jb+w7kZ"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-header/13fb3743/index.js",
+          "integrity": "sha384-gCtFxgXhzeegfqmkN6n1XVNQ1/rJWHtcZeSPuEQXwRo/ToJqrlU0okl4QdlprQyZ"
+        }
+      },
+      "id": "@sendo-buyers/header@web"
+    },
+    "@sendo-buyers/authentication": {
+      "idx": "@sendo-buyers/authentication@web",
+      "name": "@sendo-buyers/authentication",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-30T04:15:27.724Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-authentication/4588edd8/styles.css",
+            "integrity": "sha384-CRnDO0O9XZcyLBdbn8iY7ZlYcAJ3ZLfFSW1hluBAELg2Zkc+wZ6uBZPdo/derFzW"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-authentication/4588edd8/index.js",
+          "integrity": "sha384-7k9EH7L7C2hQYZI7Kgg2/Pqn7hnIKKXTodCrpovG3dZSO+wd+b209o5ob9xVAyQ5"
+        }
+      },
+      "id": "@sendo-buyers/authentication@web"
+    },
+    "@sendo-buyers/event-banner": {
+      "idx": "@sendo-buyers/event-banner@web",
+      "name": "@sendo-buyers/event-banner",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:52:15.526Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-event-banner/cc3e07ee/styles.css",
+            "integrity": "sha384-uEryHRqqATNf2utPVStX+OKfMsXZ9RgMpG2DVMJ2SWmLC58rkcxRWF+HGGEmc6Eu"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-event-banner/cc3e07ee/index.js",
+          "integrity": "sha384-63tzQHS14ReApjY2ouKl0efvpeD0YUPWnpjc09p7+xEuCSs8cv6U6kalWthBWuIj"
+        }
+      },
+      "id": "@sendo-buyers/event-banner@web"
+    },
+    "@sendo-buyers/float-banner": {
+      "idx": "@sendo-buyers/float-banner@web",
+      "name": "@sendo-buyers/float-banner",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:53:21.938Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-float-banner/cc3e07ee/styles.css",
+            "integrity": "sha384-Ah2qz0Jqwji8Pk3pNXwd8U9fiIwwPFRVraoBvw6CtTI7suPLUjj5KSW9YJ0y30eE"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-float-banner/cc3e07ee/index.js",
+          "integrity": "sha384-X8vZ8WyHD+b9lFiLhrjWLUSxsvKWszY0nzgTijj+5W2wnzyubxCCSisRCFejNKcu"
+        }
+      },
+      "id": "@sendo-buyers/float-banner@web"
+    },
+    "@sendo-buyers/footer": {
+      "idx": "@sendo-buyers/footer@web",
+      "name": "@sendo-buyers/footer",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:53:37.420Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-footer/cc3e07ee/styles.css",
+            "integrity": "sha384-wKYv3b6+CV/FAWdl2EbfTetgIxJ1wbQFlmHNV9H7JyrCN8NClzKvfwIz2vXEsxcI"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-footer/cc3e07ee/index.js",
+          "integrity": "sha384-s5WwiXpwVlvW3ddFScY/eN+ERGNQURMUjFcSVbdVWfEXYznf/So/yTxcVgmLUGjq"
+        }
+      },
+      "id": "@sendo-buyers/footer@web"
+    },
+    "@sendo-buyers/filter-category-recommend": {
+      "idx": "@sendo-buyers/filter-category-recommend@web",
+      "name": "@sendo-buyers/filter-category-recommend",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:52:48.469Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-filter-category-recommend/cc3e07ee/styles.css",
+            "integrity": "sha384-EdbY6pkH5J7BpUfB21kx1KJ6HcQoIZ9cUONwMtC26ItOA/WXWe47nNaxgHe8GbWh"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-filter-category-recommend/cc3e07ee/index.js",
+          "integrity": "sha384-5XlbwWqYLM2WdPuqITPZZsozlld62+n11vvul868Aqwg8jkfETcGZNJJhZBmBHvE"
+        }
+      },
+      "id": "@sendo-buyers/filter-category-recommend@web"
+    },
+    "@sendo-buyers/flash-sale-widget": {
+      "idx": "@sendo-buyers/flash-sale-widget@web",
+      "name": "@sendo-buyers/flash-sale-widget",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:53:06.061Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-flash-sale-widget/cc3e07ee/styles.css",
+            "integrity": "sha384-oe8nDMQoYkK/zbk32Tvai1r0Lfn/nLblVSrNDYDEfF0pM7kYSavhg4LeR0tpI1Tz"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-flash-sale-widget/cc3e07ee/index.js",
+          "integrity": "sha384-NlUXreGva6c30/mv622HPZ8rlVIPG4trV66wxkznwnCK1xOOCItxtzFShBcuEkr4"
+        }
+      },
+      "id": "@sendo-buyers/flash-sale-widget@web"
+    },
+    "@sendo-buyers/shortcut": {
+      "idx": "@sendo-buyers/shortcut@web",
+      "name": "@sendo-buyers/shortcut",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:55:48.360Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-shortcut/cc3e07ee/styles.css",
+            "integrity": "sha384-mccMa80/tdLW1QYmyv2vgz/QO+okEJ05/e8EtQDRzv6JsqMWba2SoHYkBMsazQ+t"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-shortcut/cc3e07ee/index.js",
+          "integrity": "sha384-2a0dPbvcQU+82EzVg+4kn5SzK5mAMm2FWDj7p3bDX27dOsbvFeAzovWQnXUAbXLy"
+        }
+      },
+      "id": "@sendo-buyers/shortcut@web"
+    },
+    "@sendo-buyers/marketing-utils": {
+      "idx": "@sendo-buyers/marketing-utils@web",
+      "name": "@sendo-buyers/marketing-utils",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:54:28.407Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-marketing-utils/cc3e07ee/index.js",
+          "integrity": "sha384-JP1siJztXIrnFKoFnQ+NEANc/z4jRNnjt0cavBmEwFPybRUNCfheCppNsFAnLKa6"
+        }
+      },
+      "id": "@sendo-buyers/marketing-utils@web"
+    },
+    "@sendo-buyers/layout-utils": {
+      "idx": "@sendo-buyers/layout-utils@web",
+      "name": "@sendo-buyers/layout-utils",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:54:13.842Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-layout-utils/cc3e07ee/styles.css",
+            "integrity": "sha384-8A4AtTOjdo/rtfwHDHiRZs9iP6TDQ4H3A8M6d6AqzEp3oWKWXByZZkXKG29R7QiM"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-layout-utils/cc3e07ee/index.js",
+          "integrity": "sha384-A3T3wpnNcBVSSEC5P0XGsBsldSApk6wGHM8ztgYVB8XksDYNq2wz8uX2ARjGEKIH"
+        }
+      },
+      "id": "@sendo-buyers/layout-utils@web"
+    },
+    "@sendo-buyers/feed": {
+      "idx": "@sendo-buyers/feed@web",
+      "name": "@sendo-buyers/feed",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:52:32.253Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-feed/cc3e07ee/styles.css",
+            "integrity": "sha384-nn7UP+KmHeYvPrgXMsV0R2EySrqcphSCn3gkZM8tNfwn6mYTFw8FPiETezTfU/UT"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-feed/cc3e07ee/index.js",
+          "integrity": "sha384-l1eKG6U981rtp6RS1jbTDMVA260PAVOWvyOAyKe/vblmoFZCeEpZ8tIdVRXTcbw1"
+        }
+      },
+      "id": "@sendo-buyers/feed@web"
+    },
+    "@sendo-buyers/popup-banner": {
+      "idx": "@sendo-buyers/popup-banner@web",
+      "name": "@sendo-buyers/popup-banner",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:55:17.650Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-popup-banner/cc3e07ee/styles.css",
+            "integrity": "sha384-emaAf5BawfML1+8A+xRowGG7lsFmzyre6O2GuF8EFBp7UIUpm9dMD2J/Yvory4/v"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-popup-banner/cc3e07ee/index.js",
+          "integrity": "sha384-Glm8Rg4wpBuMj+ON2HgulEyffSUB1qTS3Cs31Tq1ze+BTdnhyfdmC+xpBylceilO"
+        }
+      },
+      "id": "@sendo-buyers/popup-banner@web"
+    },
+    "@sendo-buyers/chat": {
+      "idx": "@sendo-buyers/chat@web",
+      "name": "@sendo-buyers/chat",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:52:00.376Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-chat/cc3e07ee/styles.css",
+            "integrity": "sha384-Hyx56EyFvg0E3ASamLQRPxJR8WQKYUrF4zomLUCtHneYDz8pFfyJLV0UYeV1xhmz"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-chat/cc3e07ee/index.js",
+          "integrity": "sha384-C8q5BMl+5dWmj7WfxkhMWhWtU1qZliNlLcjPEPOBxw0YwuWdzyV79qkkYooDjRnt"
+        }
+      },
+      "id": "@sendo-buyers/chat@web"
+    },
+    "@sendo-buyers/smart-banner": {
+      "idx": "@sendo-buyers/smart-banner@web",
+      "name": "@sendo-buyers/smart-banner",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:56:03.800Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-smart-banner/cc3e07ee/index.js",
+          "integrity": "sha384-jkDqgM/BmBVCEI6EZPTnF8Sg3Masr/MykhW2uxwkPuZpk5Jqun8K1bHvorqwgEPt"
+        }
+      },
+      "id": "@sendo-buyers/smart-banner@web"
+    },
+    "@sendo-buyers/order-status": {
+      "idx": "@sendo-buyers/order-status@web",
+      "name": "@sendo-buyers/order-status",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:54:59.768Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-order-status/cc3e07ee/styles.css",
+            "integrity": "sha384-+EFiFiUwCkUSzWjBwbhSsvb1OrhPPl0SwyF7BRlxLkQad1HVrFobszIuDxVXnnvQ"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-order-status/cc3e07ee/index.js",
+          "integrity": "sha384-SOEZQF4WMkFfdv1JjxCrsca2WlzhaaqF6rTvFQilpUvdzgkLz4Qy5cbrbM6IF1AD"
+        }
+      },
+      "id": "@sendo-buyers/order-status@web"
+    },
+    "@sendo-communication/chat": {
+      "idx": "@sendo-communication/chat@web",
+      "name": "@sendo-communication/chat",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-06-23T05:02:48.943Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-communication-chat/2f98343c/styles.css",
+            "integrity": "sha384-aZFO/AG6dGfW74KsAde7MhfMaDeN2NDTUWKxEvKnAKSuFfrsRiRWSu6Kdmz1/okt"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-communication-chat/2f98343c/index.js",
+          "integrity": "sha384-n1hw33fmjJ7c1qemc3l2sMgmizEarU4QRunURB0kLDvUa8riXX8RhIWE8TVrppSM"
+        }
+      },
+      "id": "@sendo-communication/chat@web"
+    },
+    "@sendo-buyers/operation-regulations": {
+      "idx": "@sendo-buyers/operation-regulations@web",
+      "name": "@sendo-buyers/operation-regulations",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:54:44.611Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-operation-regulations/cc3e07ee/index.js",
+          "integrity": "sha384-5mojG6E/cRZoLGQPhZqQN2d/RugJ/6WH8MTtT3RgR5qX1dFLpC2T1F+t++dqG3fC"
+        }
+      },
+      "id": "@sendo-buyers/operation-regulations@web"
+    },
+    "@product-details/media": {
+      "idx": "@product-details/media@web",
+      "name": "@product-details/media",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:02:33.417Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-media/d94b1072/styles.css",
+            "integrity": "sha384-TIO/sQXgiOgACM8IE/O2VcluSJVGLpva5/x2velPiSVZsSNcDVHUsEJG4VYhM+Br"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-media/d94b1072/index.js",
+          "integrity": "sha384-rDMffLuPeeyxqey0oGXHfBByFpJ3fjgGc7yoU87x9aaj12v8DUqv/l51oq1mRnnG"
+        }
+      },
+      "id": "@product-details/media@web"
+    },
+    "@product-details/product-info": {
+      "idx": "@product-details/product-info@web",
+      "name": "@product-details/product-info",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:02:56.667Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-product-info/d94b1072/styles.css",
+            "integrity": "sha384-C7tcoOyyTC6P0rw7eVCPZoa9hbcTm9/n8hKbqY2koXl5+nQHa+yXe8YA+uaHNClp"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-product-info/d94b1072/index.js",
+          "integrity": "sha384-b+iKLknQPOtzojOtpb8BHHzbxAkcqYTUH1/sbkoMkv+gFjHX8ScVxBzw1N8Nmt1j"
+        }
+      },
+      "id": "@product-details/product-info@web"
+    },
+    "@sendo-communication/rating": {
+      "idx": "@sendo-communication/rating@web",
+      "name": "@sendo-communication/rating",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-26T05:06:42.331Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-communication-rating/2ddbde5a/styles.css",
+            "integrity": "sha384-dJBh1yrAq24Ic+OAEkaAQogj/vDGHz6UdwJ55LPfNVsKvmJ77sVzjFNQoLVN2Qn+"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-communication-rating/2ddbde5a/index.js",
+          "integrity": "sha384-FUEG5/qxBRGp5N6Hgw2GGqa/Q7lXM2nvjnIVlSL11NRhrnQu0G1yXRWrdlbfyNvo"
+        }
+      },
+      "id": "@sendo-communication/rating@web"
+    },
+    "@sendo-communication/comment": {
+      "idx": "@sendo-communication/comment@web",
+      "name": "@sendo-communication/comment",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-17T13:32:23.582Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-communication-comment/1efe071f/styles.css",
+            "integrity": "sha384-tJfVpzOgbKjvav3VkzajYcdcAqxoHPcTwfDvemEw9CIqMWtOoAHtWBDUJryUfySB"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-communication-comment/1efe071f/index.js",
+          "integrity": "sha384-s4AInRVPcQEJMPdUGYriFsi0KaRWEZ5BTOgr8UHdJSwKTGSx7ZY2481KO00ardVC"
+        }
+      },
+      "id": "@sendo-communication/comment@web"
+    },
+    "@product-details/cta": {
+      "idx": "@product-details/cta@web",
+      "name": "@product-details/cta",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:01:52.224Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-cta/d94b1072/styles.css",
+            "integrity": "sha384-i8E1qeP6RhpOE/FGjzTzqLc1GhtHL4oWJ2SnhhFvP3Ngu1BgPe96ohUBjSzjH51n"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-cta/d94b1072/index.js",
+          "integrity": "sha384-NNjvTzjglBO1YMEw14TMwBGRKVubyBOmqrhjh4014aqu1C1rkqNfFHFW3CVmW9qt"
+        }
+      },
+      "id": "@product-details/cta@web"
+    },
+    "@promotion/combo-discount": {
+      "idx": "@promotion/combo-discount@web",
+      "name": "@promotion/combo-discount",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-06-16T04:44:43.441Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/promotion-combo-discount/91dec753/styles.css",
+            "integrity": "sha384-c+Sb7RQ+yKX/vaE9RXM/IqQemy9LWgFROSJcFL82H7oA6ARylk356SDOnfAExFUu"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/promotion-combo-discount/91dec753/index.js",
+          "integrity": "sha384-SeP3g9mbbEr3cIs+Br942Y65Ouqu0nCj/ZDFcVsRxtKUxtRzJU8jifL0R0zJbBN+"
+        }
+      },
+      "id": "@promotion/combo-discount@web"
+    },
+    "@product-details/shop-info": {
+      "idx": "@product-details/shop-info@web",
+      "name": "@product-details/shop-info",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:03:11.212Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-shop-info/d94b1072/styles.css",
+            "integrity": "sha384-DlCs4za/W5IwzBqa5PqTxTksfv7Zq11m7lKC2Kp7CkW3gWMCS6EUQmvbbmTV5Ae+"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-shop-info/d94b1072/index.js",
+          "integrity": "sha384-N+2MSB+nj1HybT8Nl0KukQ2vX8eIKi8uifQYWEBUecD4UEU9XumPTT//8JuSgF5i"
+        }
+      },
+      "id": "@product-details/shop-info@web"
+    },
+    "@cart/listing": {
+      "idx": "@cart/listing@web",
+      "name": "@cart/listing",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-06-23T02:31:49.599Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/cart-listing/081de1ea/styles.css",
+            "integrity": "sha384-7W9bCTrIJCb6b5RJjqDsPN5rPGhy19oZAaThuIkJgkj1bRVLCG2T0hRqaSYVOLBm"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/cart-listing/081de1ea/index.js",
+          "integrity": "sha384-lS2c3XZa4ED4GIjRgZ3G9o0RtlZk7Gf7ul0A7AdtvURW3yAvZSvmBJiycfzdF8Yv"
+        }
+      },
+      "id": "@cart/listing@web"
+    },
+    "@product-details/description-info": {
+      "idx": "@product-details/description-info@web",
+      "name": "@product-details/description-info",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:02:06.433Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-description-info/d94b1072/styles.css",
+            "integrity": "sha384-aMPUwCOmyTCAJBCDQGIkbAr6rg4yWo2KQBj1LoLxBx6dHwY2QPi29gzQulJy/mS+"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-description-info/d94b1072/index.js",
+          "integrity": "sha384-9U/iAhSOdy7bDMDOBMaHl6gQo4Alb+jo6A+LQAo/fELO96/qLpIys3dV8h6x93Vr"
+        }
+      },
+      "id": "@product-details/description-info@web"
+    },
+    "@product-details/navigation-tabs": {
+      "idx": "@product-details/navigation-tabs@web",
+      "name": "@product-details/navigation-tabs",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T08:02:44.536Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-navigation-tabs/d94b1072/styles.css",
+            "integrity": "sha384-ZvyPpusHmZzYLYOUlYUz+u21kz9CLxUdBWEKFSwHkKa9jKWvAjy2jTPYd02Mlyog"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-navigation-tabs/d94b1072/index.js",
+          "integrity": "sha384-WaTcuj6DW48MV6hus+LOa9W+EU6lgG/2qn+HLBmD+xSer/Bmt1rwJ0KqsNvJbH7q"
+        }
+      },
+      "id": "@product-details/navigation-tabs@web"
+    },
+    "@sendo-buyers/popup-disclaimer": {
+      "idx": "@sendo-buyers/popup-disclaimer@web",
+      "name": "@sendo-buyers/popup-disclaimer",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:55:33.270Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-popup-disclaimer/cc3e07ee/styles.css",
+            "integrity": "sha384-flLQ7jj5QkVc3tv8BIhEiwwQW70JXyaKGarRoSEQSOyMOnbGukWxYRNt2wHHsioZ"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-popup-disclaimer/cc3e07ee/index.js",
+          "integrity": "sha384-qqjCB4CSy4i8N2YmIFggJX00NyntngkkwTHcG+9uHtLYP230w15iMiAydqo+kBct"
+        }
+      },
+      "id": "@sendo-buyers/popup-disclaimer@web"
+    },
+    "@promotion/shop-voucher-widget": {
+      "idx": "@promotion/shop-voucher-widget@web",
+      "name": "@promotion/shop-voucher-widget",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-06-16T04:44:56.587Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/promotion-shop-voucher-widget/91dec753/styles.css",
+            "integrity": "sha384-tf5EmL4xINz9/XpXp8DcMiyFYmi6A0GeiRCmKQiHpvakPelwIARetbmiJD74haqZ"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/promotion-shop-voucher-widget/91dec753/index.js",
+          "integrity": "sha384-MLAIYPiNiDA2C8Qzuiwq/9b617tbETkfu/WNZvj1RtdVJs7/EREdPFsEAD4K+ZCF"
+        }
+      },
+      "id": "@promotion/shop-voucher-widget@web"
+    },
+    "@sendo-buyers/all-categories": {
+      "idx": "@sendo-buyers/all-categories@web",
+      "name": "@sendo-buyers/all-categories",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:51:20.120Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-buyers-all-categories/cc3e07ee/styles.css",
+            "integrity": "sha384-PITvwhDTm/+njq1NRLrkXPw1OPeOhm1AXLIk6+xZA3Y6pJbDiXSyZwRHpVCyDwsJ"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-buyers-all-categories/cc3e07ee/index.js",
+          "integrity": "sha384-jAdD4S7TQbUcoWdzWLy8thfPLygPD8Ns5VF1BnHd6mLxrVsOiqdwtKheId3kQhaB"
+        }
+      },
+      "id": "@sendo-buyers/all-categories@web"
+    },
+    "@sendo-communication/product-chat-widget": {
+      "idx": "@sendo-communication/product-chat-widget@web",
+      "name": "@sendo-communication/product-chat-widget",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-17T13:32:35.234Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/sendo-communication-product-chat-widget/1efe071f/styles.css",
+            "integrity": "sha384-PM4EmIxY7EWIJ5bB1hTC0r0baIdNIot5alg8xxJL1zzH8GMIIc2qIXf3jJy/6o75"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/sendo-communication-product-chat-widget/1efe071f/index.js",
+          "integrity": "sha384-906/3o3bRBoHGZx5Sz7IijHRD45c5QEJ1BbilnyfXwtL/jxhP+/VUcGqofnhxxp6"
+        }
+      },
+      "id": "@sendo-communication/product-chat-widget@web"
+    },
+    "@utilities/dgs-home": {
+      "idx": "@utilities/dgs-home@web",
+      "name": "@utilities/dgs-home",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-08-26T05:05:27.428Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-dgs-home/f209de72/styles.css",
+            "integrity": "sha384-aTqzdIK3P1OlWDJD26Y2qvlxSYFa7tjNCq30S82bMp9XeRrVkD/Q897ijIwIh/jy"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-dgs-home/f209de72/index.js",
+          "integrity": "sha384-q4erNg4WknBkIExikYIZZ+oHu9SxXhpVSumb81QpgNbAg+eluqFzS3JeOr83n9W1"
+        }
+      },
+      "id": "@utilities/dgs-home@web"
+    },
+    "@utilities/quick-payment": {
+      "idx": "@utilities/quick-payment@web",
+      "name": "@utilities/quick-payment",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-31T10:45:47.084Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-quick-payment/32b46c8a/styles.css",
+            "integrity": "sha384-jTmtd/GXBKtsxoMs05f5Hwm15iMnAh5EPA3/EowKb0wiAfvQ266EG6k47qdIHgGY"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-quick-payment/32b46c8a/index.js",
+          "integrity": "sha384-VHRm9dzTVRdzyMYgsfsjm131NncCE4gfHFZVn+k9J1jlamdFxIr1USQdqLTbIuID"
+        }
+      },
+      "id": "@utilities/quick-payment@web"
+    },
+    "@utilities/category-shortcut": {
+      "idx": "@utilities/category-shortcut@web",
+      "name": "@utilities/category-shortcut",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-30T09:09:51.985Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-category-shortcut/1e0ad0cf/styles.css",
+            "integrity": "sha384-8XCtF/OzE+O3UecG7+kdYvXib+hj2aur7EkPfCatUpEBbX6uAdrBBPYgu2AJC6F+"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-category-shortcut/1e0ad0cf/index.js",
+          "integrity": "sha384-6OuRNJgsKaJEg+uErHa9hbw5kEOGMgDqekkl67MUlYo7oqyO9JvRDqn6r12LX6uc"
+        }
+      },
+      "id": "@utilities/category-shortcut@web"
+    },
+    "@utilities/suggest-box": {
+      "idx": "@utilities/suggest-box@web",
+      "name": "@utilities/suggest-box",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T03:40:56.592Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-suggest-box/47696f95/styles.css",
+            "integrity": "sha384-5Bbc6knyIVWk9JXtFsVkADkMvziVSRtwSXa6yEM6my9zUh2VJo+ZMrWSDY7Pnbup"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-suggest-box/47696f95/index.js",
+          "integrity": "sha384-BQiaiUnYCa3FxrVIbdAVt0GUkV1wZjFFRX3Bvo46ZIsMzJF9V7iYUar8r2UaBVxH"
+        }
+      },
+      "id": "@utilities/suggest-box@web"
+    },
+    "@utilities/voucher": {
+      "idx": "@utilities/voucher@web",
+      "name": "@utilities/voucher",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T03:41:09.414Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-voucher/47696f95/styles.css",
+            "integrity": "sha384-1L9VNrbhp5pEJCftdaN3eDEEnrPsvZ3XHKt9D9oW4n/PHKnT+4BHDCJN95QpqQqN"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-voucher/47696f95/index.js",
+          "integrity": "sha384-jRW150CV6jztlQIhoBdn0HNKyR5sUCRpj5qLCrIQjxsSiAK3dCLdmTwozrB343yc"
+        }
+      },
+      "id": "@utilities/voucher@web"
+    },
+    "@utilities/promotions": {
+      "idx": "@utilities/promotions@web",
+      "name": "@utilities/promotions",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-23T03:40:41.871Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-promotions/47696f95/styles.css",
+            "integrity": "sha384-hYL69i8as4zmKwq1ERdiDHtsIMKhSIfHfaQjUn5CcAJl0K5p7Bk6IMd3Bk6pcxRV"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-promotions/47696f95/index.js",
+          "integrity": "sha384-B016P8RPftCXKfJiR/CrVvyY4Jndl4L8PM9+zjV2Ad3It8LETMVigza+uXAmFHd5"
+        }
+      },
+      "id": "@utilities/promotions@web"
+    },
+    "@utilities/seo-content": {
+      "idx": "@utilities/seo-content@web",
+      "name": "@utilities/seo-content",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-30T09:10:40.875Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/utilities-seo-content/1e0ad0cf/styles.css",
+            "integrity": "sha384-RTO4NXTnCssvRvMUxZWk5gNrxO+Wgp6uIRvwlPbeyRteTHluJvqvaFXPTEcRRupw"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/utilities-seo-content/1e0ad0cf/index.js",
+          "integrity": "sha384-0jSi8MM9BpbUkUPtRNzOutru7oQtTL77/MVQjd6Z8j7lV+KxMnUmXhx/3bu1WaMI"
+        }
+      },
+      "id": "@utilities/seo-content@web"
+    },
+    "@product-details/groups": {
+      "idx": "@product-details/groups@web",
+      "name": "@product-details/groups",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-06T07:28:43.035Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-groups/4c590bdd/styles.css",
+            "integrity": "sha384-MyzLmgS4FbulvYLpqmqCawWqlf7BsW+9Z/fHKcITgYCS4ERq5mlSIyGZAJeCbmNC"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-groups/4c590bdd/index.js",
+          "integrity": "sha384-1OWdU40d1YPzgvrEs3mAsh/jdwWBjU1aCsW6kTfoHq01JW+HdKLujmhz5Oxl4Nsp"
+        }
+      },
+      "id": "@product-details/groups@web"
+    },
+    "@product-details/group-buy": {
+      "idx": "@product-details/group-buy@web",
+      "name": "@product-details/group-buy",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-29T04:33:46.200Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/product-details-group-buy/624d98e3/styles.css",
+            "integrity": "sha384-dGjAWjMArQuQdhfKqb/GSYJ+ZYpmcW1CPe6tZ7IrHpVfOzRX9v+gn2eFQLRpmPTC"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/product-details-group-buy/624d98e3/index.js",
+          "integrity": "sha384-7ebGafmay9Esz1uzY5L7j5ppLR8VuPsK78Qie5oxrrfHYECefMW/bp9vFOmHiKZ9"
+        }
+      },
+      "id": "@product-details/group-buy@web"
+    },
+    "@listing/categories-bar": {
+      "idx": "@listing/categories-bar@web",
+      "name": "@listing/categories-bar",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-30T04:48:03.568Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-categories-bar/1830a7b4/styles.css",
+            "integrity": "sha384-b7LdqWvcStpOsI6OJ2VRom81oTs5aqmAFRgodJ4cqwHAKJHLULghsG/UIqT2v0I+"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-categories-bar/1830a7b4/index.js",
+          "integrity": "sha384-cC9zfzLfsRXf/cyg8IoEMGiXJt3ll7KrJFhRfkSSnOlcnBgavV33S0mnvGBy7f/w"
+        }
+      },
+      "id": "@listing/categories-bar@web"
+    },
+    "@listing/feed": {
+      "idx": "@listing/feed@web",
+      "name": "@listing/feed",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-27T08:53:10.919Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-feed/de950709/styles.css",
+            "integrity": "sha384-D2BUPnJNfxHiqces1ptexmH4EMUBShjCY47UfJpCfrG1sQsXlD2qstj6pwvfdtrL"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-feed/de950709/index.js",
+          "integrity": "sha384-LIcm/XN8+8+OXuMbhZMa6lX9W59BlFfmjsdjo8tc21wspyTEFQyYX1fThjjGyfkv"
+        }
+      },
+      "id": "@listing/feed@web"
+    },
+    "@listing/filter": {
+      "idx": "@listing/filter@web",
+      "name": "@listing/filter",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-28T09:45:59.703Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-filter/850ccd78/styles.css",
+            "integrity": "sha384-ttdukViMRW6uAGDv9ZUHYkzx7UYLdK+bubgmsgg+QZQZDGHWi+Xj4+vzb986A02I"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-filter/850ccd78/index.js",
+          "integrity": "sha384-UIfzjAbndfKhibVrRU4pmXohibj5xPCpM0rWojTSPS5LFPcKXQDZqxaz/A4mP9DC"
+        }
+      },
+      "id": "@listing/filter@web"
+    },
+    "@listing/menu-categories": {
+      "idx": "@listing/menu-categories@web",
+      "name": "@listing/menu-categories",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-27T08:53:34.144Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-menu-categories/de950709/styles.css",
+            "integrity": "sha384-z1tcq/vi8quCWDTd7OFMQwu9KJITo0GCrgXn/BcoqXzoj9B9Ihdjn3RiJKMu8rkN"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-menu-categories/de950709/index.js",
+          "integrity": "sha384-PHaC6xqwviBQjgkYIiAhyfoinsgCeN1Al2Qc5KEhmV+lVonz2ZX+2WwhJ2zQ37vI"
+        }
+      },
+      "id": "@listing/menu-categories@web"
+    },
+    "@listing/quick-filter-bar": {
+      "idx": "@listing/quick-filter-bar@web",
+      "name": "@listing/quick-filter-bar",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-07-28T09:29:30.545Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-quick-filter-bar/399300dc/styles.css",
+            "integrity": "sha384-BFPzQUH9EVF7sTVBTNV4ilDL3uHmXqB0dGQL69j1Db7JNTMHIFOXDjR7NmSaPvUl"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-quick-filter-bar/399300dc/index.js",
+          "integrity": "sha384-ilMnUCqqLzF9IBAD8gSPlV9Aj6khqK75/CMdTBMVA2Tdfws54M0VoYF9pk3liB2B"
+        }
+      },
+      "id": "@listing/quick-filter-bar@web"
+    },
+    "@listing/sorting-bar": {
+      "idx": "@listing/sorting-bar@web",
+      "name": "@listing/sorting-bar",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-27T08:54:02.160Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-sorting-bar/de950709/styles.css",
+            "integrity": "sha384-hqCFkNEZn1MUt5KLb4RZsddy9zu6qMj5+BbijiRNN0ObLuqT7M66/YL/nxMMIQIn"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-sorting-bar/de950709/index.js",
+          "integrity": "sha384-00JqtzEMjdlTX8cuUWREScVtZfAvnq/zhHyklVGD8dI/yAg6sRmsxvC5SFF7tj85"
+        }
+      },
+      "id": "@listing/sorting-bar@web"
+    },
+    "@listing/sendo-click": {
+      "idx": "@listing/sendo-click@web",
+      "name": "@listing/sendo-click",
+      "version": "web",
+      "exportsOnly": [],
+      "createdAt": "2021-09-27T08:53:48.440Z",
+      "format": "umd",
+      "publisher": "admin",
+      "shared": [],
+      "externals": [],
+      "upstream": {
+        "styles": [
+          {
+            "url": "https://web-static-stg.sendo.vn/listing-sendo-click/de950709/styles.css",
+            "integrity": "sha384-CfxSLYxmbMvYbgO3fCNzQfKe0Mge4mxvEJ1HVHhWrjyO7pPU3ISsqtQyvZouRv6L"
+          }
+        ],
+        "script": {
+          "url": "https://web-static-stg.sendo.vn/listing-sendo-click/de950709/index.js",
+          "integrity": "sha384-ycJXgWwz5JuqXaEYf3/HF4MapOhj5xU6lKB/30IXIvV1QMk49OqGKW6eFFfY0uSz"
+        }
+      },
+      "id": "@listing/sendo-click@web"
+    }
+  },
+  "warnings": [
+    {
+      "id": "@sendo-buyers/forgot-password",
+      "version": "web",
+      "message": "Cannot parse the module, maybe it is empty or not eixsts."
+    }
+  ]
+}
